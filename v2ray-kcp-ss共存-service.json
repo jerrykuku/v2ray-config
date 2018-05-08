@@ -22,7 +22,7 @@
     },
     "outbound": {
         "protocol": "freedom",
-        "settings": {}
+        "settings": null
     },
     "inboundDetour": [
         {
@@ -39,7 +39,7 @@
     "outboundDetour": [
         {
             "protocol": "blackhole",
-            "settings": {},
+            "settings": null,
             "tag": "blocked"
         }
     ],
