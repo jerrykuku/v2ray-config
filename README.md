@@ -19,3 +19,6 @@ service 为服务器端配置
   
   
 client  为客户端配置
+
+本人做的一个小小公益项目:http://www.aikiss.top/
+请不要做非法用途
